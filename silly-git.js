@@ -1,1 +1,1 @@
-const fruit = 'banana';
+const fruit = 'mango';
