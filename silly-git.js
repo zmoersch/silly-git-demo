@@ -1,1 +1,1 @@
-const faveFruit = 'strawberry';
+const faveFruit = 'fig';
